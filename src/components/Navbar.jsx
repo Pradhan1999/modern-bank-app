@@ -28,7 +28,7 @@ const Navbar = () => {
           </ul>
         </div>
       </div>
-      
+      {/* update */}
     </nav>
   )
 }
